@@ -1,0 +1,235 @@
+fra3s50ftp01.xt.local Chef: 13.1.31
+fra3s50ftp02.xt.local Chef: 13.1.31
+fra3s50deploy01.xt.local Chef: 13.1.31
+fra3s50rptsvr04.xt.local Chef: 13.1.31
+fra3s50rptsvr02.xt.local Chef: 13.1.31
+fra3s50dmoapi01.xt.local Chef: 13.1.31
+fra3s50cms04.xt.local Chef: 13.1.31
+fra3s50dmoapi02.xt.local Chef: 13.1.31
+fra3s50rptsvr03.xt.local Chef: 13.1.31
+fra3s50cms03.xt.local Chef: 13.1.31
+fra3s50rptsvr01.xt.local Chef: 13.1.31
+fra3s50cms01.xt.local Chef: 13.1.31
+fra3s50sldgw02.xt.local Chef: 13.1.31
+fra3s50sldgw01.xt.local Chef: 13.1.31
+fra3s50cms02.xt.local Chef: 13.1.31
+fra3s50deploy02.xt.local Chef: 13.1.31
+fra3s50cdb10.xt.local Chef: 13.1.31
+fra3s50jet05.xt.local Chef: 13.1.31
+fra3s50jet02.xt.local Chef: 13.1.31
+fra3s50opsbat01.xt.local Chef: 13.1.31
+fra3s50jet04.xt.local Chef: 13.1.31
+fra3s50c010n07.xt.local Chef: 14.3.37
+fra3s50c003n03.xt.local Chef: 14.3.37
+fra3s50c010n04.xt.local Chef: 14.3.37
+fra3s50c002n01.xt.local Chef: 14.3.37
+fra3s50c002n03.xt.local Chef: 14.3.37
+fra3s50c008n08.xt.local Chef: 14.3.37
+fra3s50c008n06.xt.local Chef: 14.3.37
+fra3s50dba01n01.xt.local Chef: 14.3.37
+fra3s50c002n02.xt.local Chef: 14.3.37
+fra3s50c005n03.xt.local Chef: 14.3.37
+fra3s50dbats01.xt.local Chef: 14.3.37
+fra3s50c002n05.xt.local Chef: 14.3.37
+fra3s50c007n01.xt.local Chef: 14.3.37
+fra3s50appdfs02.xt.local Chef: 13.1.31
+fra3s50c005n07.xt.local Chef: 14.3.37
+fra3s50ommscm03.xt.local Chef: 13.1.31
+fra3s50c006n03.xt.local Chef: 14.3.37
+fra3s50c007n07.xt.local Chef: 14.3.37
+fra3s50ormwin01.xt.local Chef: 13.1.31
+fra3s50cmdp01.xt.local Chef: 14.3.37
+fra3s50cdb04.xt.local Chef: 13.1.31
+fra3s50c007n02.xt.local Chef: 14.3.37
+fra3s50omapi01.xt.local Chef: 13.1.31
+fra3s50c003n01.xt.local Chef: 14.3.37
+fra3s50omnetm02.xt.local Chef: 13.1.31
+fra3s50blstr04.xt.local Chef: 13.1.31
+fra3s50omwinm02.xt.local Chef: 13.1.31
+fra3s50ic01n04.xt.local Chef: 14.3.37
+fra3s50c001n06.xt.local Chef: 14.3.37
+fra3s50omrpt01.xt.local Chef: 13.1.31
+fra3s50cdb03.xt.local Chef: 13.1.31
+fra3s50blstr02.xt.local Chef: 13.1.31
+fra3s50c001n01.xt.local Chef: 14.3.37
+fra3s50c003n02.xt.local Chef: 14.3.37
+fra3s50c010n02.xt.local Chef: 14.3.37
+fra3s50cdb06.xt.local Chef: 13.1.31
+fra3s50omnetm10.xt.local Chef: 13.1.31
+fra3s50cdb02.xt.local Chef: 13.1.31
+fra3s50c004n05.xt.local Chef: 14.3.37
+fra3s50cdb01.xt.local Chef: 13.1.31
+fra3s50cmdp03.xt.local Chef: 13.1.31
+fra3s50omlinm20.xt.local Chef: 13.1.31
+fra3s50omwinm03.xt.local Chef: 13.1.31
+fra3s50c002n06.xt.local Chef: 14.3.37
+fra3s50c010n01.xt.local Chef: 14.3.37
+fra3s50c002n08.xt.local Chef: 14.3.37
+fra3s50omprtl02.xt.local Chef: 13.1.31
+fra3s50authdb02.xt.local Chef: 13.1.31
+fra3s50opsfw03.xt.local Chef: 13.1.31
+fra3s50c008n02.xt.local Chef: 14.3.37
+fra3s50cdb11.xt.local Chef: 13.1.31
+fra3s50omnetm11.xt.local Chef: 13.1.31
+fra3s50omlinm04.xt.local Chef: 13.1.31
+fra3s50c005n02.xt.local Chef: 14.3.37
+fra3s50cmdp04.xt.local Chef: 13.1.31
+fra3s50opscb03.xt.local Chef: 13.1.31
+fra3s50jet08.xt.local Chef: 13.1.31
+fra3s50cdb07.xt.local Chef: 13.1.31
+fra3s50omlinm10.xt.local Chef: 13.1.31
+fra3s50c003n08.xt.local Chef: 14.3.37
+fra3s50c003n07.xt.local Chef: 14.3.37
+fra3s50omnetm20.xt.local Chef: 13.1.31
+fra3s50ommscm01.xt.local Chef: 13.1.31
+fra3s50c002n04.xt.local Chef: 14.3.37
+fra3s50c009n06.xt.local Chef: 14.3.37
+fra3s50opsfw04.xt.local Chef: 13.1.31
+fra3s50cmdp05.xt.local Chef: 13.1.31
+fra3s50cdb09.xt.local Chef: 13.1.31
+fra3s50c004n04.xt.local Chef: 14.3.37
+fra3s50omprtl04.xt.local Chef: 13.1.31
+fra3s50sanmgt02.xt.local Chef: 14.3.37
+fra3s50omlinm11.xt.local Chef: 13.1.31
+fra3s50omnetm01.xt.local Chef: 13.1.31
+fra3s50omlinm21.xt.local Chef: 13.1.31
+fra3s50c003n04.xt.local Chef: 14.3.37
+fra3s50cdb08.xt.local Chef: 13.1.31
+fra3s50cdb05.xt.local Chef: 13.1.31
+fra3s50jet06.xt.local Chef: 13.1.31
+fra3s50opscbm01.xt.local Chef: 13.1.31
+fra3s50opsfw02.xt.local Chef: 13.1.31
+fra3s50c003n05.xt.local Chef: 14.3.37
+fra3s50c009n03.xt.local Chef: 14.3.37
+fra3s50opsbat04.xt.local Chef: 13.1.31
+fra3s50opsbat02.xt.local Chef: 13.1.31
+fra3s50omprtl03.xt.local Chef: 13.1.31
+fra3s50opsfw01.xt.local Chef: 13.1.31
+fra3s50c005n06.xt.local Chef: 14.3.37
+fra3s50c006n02.xt.local Chef: 14.3.37
+fra3s50c006n05.xt.local Chef: 14.3.37
+fra3s50omwinm21.xt.local Chef: 13.1.31
+fra3s50dstsvc08.xt.local Chef: 13.12.3
+fra3s50confio01.xt.local Chef: 14.3.37
+fra3s50c001n08.xt.local Chef: 14.3.37
+fra3s50omnetm21.xt.local Chef: 13.1.31
+fra3s50opsbat03.xt.local Chef: 13.1.31
+fra3s50cmdp02.xt.local Chef: 13.1.31
+fra3s50opscb04.xt.local Chef: 13.1.31
+fra3s50pb01.xt.local Chef: 13.1.31
+fra3s50ommscm04.xt.local Chef: 13.1.31
+fra3s50omwinm10.xt.local Chef: 13.1.31
+fra3s50omnetm04.xt.local Chef: 13.1.31
+fra3s50ormwin02.xt.local Chef: 13.1.31
+fra3s50c007n05.xt.local Chef: 14.3.37
+fra3s50c008n04.xt.local Chef: 14.3.37
+fra3s50c004n02.xt.local Chef: 14.3.37
+fra3s50authdb04.xt.local Chef: 13.1.31
+fra3s50opscbm02.xt.local Chef: 13.1.31
+fra3s50omprtl01.xt.local Chef: 13.1.31
+fra3s50ic01n03.xt.local Chef: 14.3.37
+fra3s50c004n07.xt.local Chef: 14.3.37
+fra3s50c006n07.xt.local Chef: 14.3.37
+fra3s50omlinm01.xt.local Chef: 13.1.31
+fra3s50opscb01.xt.local Chef: 13.1.31
+fra3s50jet07.xt.local Chef: 13.1.31
+fra3s50ommscm02.xt.local Chef: 13.1.31
+fra3s50dba01n04.xt.local Chef: 14.3.37
+fra3s50jet03.xt.local Chef: 13.1.31
+fra3s50opscb02.xt.local Chef: 13.1.31
+fra3s50ctdc02.xt.local Chef: 13.1.31
+fra3s50c005n01.xt.local Chef: 14.3.37
+fra3s50c004n06.xt.local Chef: 14.3.37
+fra3s50c009n07.xt.local Chef: 14.3.37
+fra3s50omlinm03.xt.local Chef: 13.1.31
+fra3s50omnetm03.xt.local Chef: 13.1.31
+fra3s50ic01n02.xt.local Chef: 14.3.37
+fra3s50c005n08.xt.local Chef: 14.3.37
+fra3s50c001n05.xt.local Chef: 14.3.37
+fra3s50c010n03.xt.local Chef: 14.3.37
+fra3s50jenk02.xt.local Chef: 13.8.5
+fra3s50c001n02.xt.local Chef: 14.3.37
+fra3s50c009n02.xt.local Chef: 14.3.37
+fra3s50c009n08.xt.local Chef: 14.3.37
+fra3s50blstr03.xt.local Chef: 13.1.31
+fra3s50ic01n01.xt.local Chef: 14.3.37
+fra3s50dbweb02.xt.local Chef: 13.1.31
+fra3s50omwinm11.xt.local Chef: 13.1.31
+fra3s50authdb01.xt.local Chef: 13.1.31
+fra3s50omwinm20.xt.local Chef: 13.1.31
+fra3s50omapi02.xt.local Chef: 13.1.31
+fra3s50dba01n02.xt.local Chef: 14.3.37
+fra3s50omlinm02.xt.local Chef: 13.1.31
+fra3s50blstr01.xt.local Chef: 13.1.31
+fra3s50c004n01.xt.local Chef: 14.3.37
+fra3s50authdb03.xt.local Chef: 13.1.31
+fra3s50c010n06.xt.local Chef: 14.3.37
+fra3s50c008n05.xt.local Chef: 14.3.37
+fra3s50irs01.xt.local Chef: 14.3.37
+fra3s50c001n04.xt.local Chef: 14.3.37
+fra3s50cdb12.xt.local Chef: 13.1.31
+fra3s50c007n03.xt.local Chef: 14.3.37
+fra3s50c004n03.xt.local Chef: 14.3.37
+fra3s50c008n01.xt.local Chef: 14.3.37
+fra3s50c008n07.xt.local Chef: 14.3.37
+fra3s50c009n05.xt.local Chef: 14.3.37
+fra3s50appdfs01.xt.local Chef: 13.1.31
+fra3s50c005n05.xt.local Chef: 14.3.37
+fra3s50dbweb01.xt.local Chef: 13.1.31
+fra3s50omwinm04.xt.local Chef: 13.1.31
+fra3s50c001n07.xt.local Chef: 14.3.37
+fra3s50c001n03.xt.local Chef: 14.3.37
+fra3s50c009n01.xt.local Chef: 14.3.37
+fra3s50c006n01.xt.local Chef: 14.3.37
+fra3s50ctdc01.xt.local Chef: 13.1.31
+fra3s50c006n04.xt.local Chef: 14.3.37
+fra3s50c006n06.xt.local Chef: 14.3.37
+fra3s50dstsvc10.xt.local Chef: 13.12.3
+fra3s50dstsvc04.xt.local Chef: 13.12.3
+fra3s50c007n08.xt.local Chef: 14.3.37
+fra3s50c007n06.xt.local Chef: 14.3.37
+fra3s50dstsvc02.xt.local Chef: 13.12.3
+fra3s50dstsvc03.xt.local Chef: 13.12.3
+fra3s50c004n08.xt.local Chef: 14.3.37
+fra3s50c008n03.xt.local Chef: 14.3.37
+fra3s50jenk01.xt.local Chef: 13.8.5
+fra3s50jet01.xt.local Chef: 13.1.31
+fra3s50c005n04.xt.local Chef: 14.3.37
+fra3s50dstsvc09.xt.local Chef: 13.12.3
+fra3s50c006n08.xt.local Chef: 14.3.37
+fra3s50c009n04.xt.local Chef: 14.3.37
+fra3s50dstsvc06.xt.local Chef: 13.12.3
+fra3s50dstsvc01.xt.local Chef: 13.12.3
+fra3s50c003n06.xt.local Chef: 14.3.37
+fra3s50c010n08.xt.local Chef: 14.3.37
+fra3s50omwinm01.xt.local Chef: 13.1.31
+fra3s50dstsvc05.xt.local Chef: 13.12.3
+fra3s50dba01n03.xt.local Chef: 14.3.37
+fra3s50c002n07.xt.local Chef: 14.3.37
+fra3s50c007n04.xt.local Chef: 14.3.37
+fra3s50dstsvc07.xt.local Chef: 13.12.3
+fra3s50c010n05.xt.local Chef: 14.3.37
+fra3s50sanmgt01.xt.local Chef: 13.1.31
+fra3s50cmsdb02.xt.local
+fra3s50cmsdb01.xt.local
+fra3s50dblt02.xt.local
+fra3s50dblt03.xt.local
+fra3s50dblt01.xt.local
+fra3s50dc03.xt.local
+fra3s50dc05.xt.local
+fra3s50dc04.xt.local
+fra3s50dc02.xt.local
+fra3s50omnetm05.xt.local
+fra3s50omlinm07.xt.local
+fra3s50omnetm06.xt.local
+fra3s50dc01.xt.local
+fra3s50omlinm05.xt.local
+fra3s50omnetm07.xt.local
+fra3s50omlinm06.xt.local
+fra3s50omlinm08.xt.local
+fra3s50omwinm08.xt.local
+fra3s50omnetm08.xt.local
+fra3s50omwinm05.xt.local
+fra3s50dc06.xt.local
+fra3s50omwinm06.xt.local
+fra3s50omwinm07.xt.local
